@@ -1,6 +1,6 @@
 # Adminix – Ihre Lösung für Discord-Bot-Verwaltung 🎉
 
-**Adminix** ist ein Projekt von **DANIEL NETWORK CENTER**, das sich auf die Entwicklung und Verwaltung von Discord-Bots spezialisiert hat. Das Adminix-Projekt bietet nicht nur den Adminix-Bot, sondern erstellt auch maßgeschneiderte Bots für spezifische Projekte und Communities, um die Verwaltung von Discord-Communities zu erleichtern und die Nutzererfahrung zu verbessern.
+**Adminix** ist ein Projekt von **DANIEL NETWORK CENTER™**, das sich auf die Entwicklung und Verwaltung von Discord-Bots spezialisiert hat. Das Adminix-Projekt bietet nicht nur den Adminix-Bot, sondern erstellt auch maßgeschneiderte Bots für spezifische Projekte und Communities, um die Verwaltung von Discord-Communities zu erleichtern und die Nutzererfahrung zu verbessern.
 
 ## Was ist Adminix? 🤖
 
@@ -18,7 +18,7 @@ Adminix wurde entwickelt, um verschiedene Bereiche der Discord-Serververwaltung 
 
 ## Unterstützung spezialisierter Projekte 🌍
 
-Das Adminix-Projekt unterstützt auch spezialisierte Projekte, wie zum Beispiel **LifeSync Roleplay**, indem es maßgeschneiderte Bots entwickelt, die den spezifischen Anforderungen solcher Communities gerecht werden. Diese maßgeschneiderten Lösungen verbessern das Spielerlebnis und die Interaktion innerhalb der Community.
+Das Adminix-Projekt unterstützt auch spezialisierte Projekte, wie zum Beispiel **Life Roleplay Network**, indem es maßgeschneiderte Bots entwickelt, die den spezifischen Anforderungen solcher Communities gerecht werden. Diese maßgeschneiderten Lösungen verbessern das Spielerlebnis und die Interaktion innerhalb der Community.
 
 ## Benutzerfreundlichkeit und Dashboard 🌐
 
